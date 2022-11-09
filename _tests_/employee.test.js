@@ -18,8 +18,8 @@ test("Testing ID.", () => {
 })
 
 test("Testing email.", () => {
-    const email = "jamesljenks@gmail.com";
-    const employeeInstance = new Employee("Taylor", 2, email);
+    const email = "jkirbs86@gmail.com";
+    const employeeInstance = new Employee("Jared", 2, email);
     expect(employeeInstance.email).toBe(email);
 })
 
@@ -36,13 +36,13 @@ test("Can test ID through getID method.", () => {
 })
 
 test("Can test email through getEmail method.", () => {
-    const testEmail = "taylorpterrill@gmail.com";
-    const employeeInstance = new Employee("Taylor", 2, testEmail);
+    const testEmail = "jkirbs86@gmail.com";
+    const employeeInstance = new Employee("Jared", 2, testEmail);
     expect(employeeInstance.getEmail()).toBe(testEmail);
 })
 
 test("Testing role.", () => {
     const returnValue = "Employee";
-    const employeeInstance = new Employee("Taylor", 2, "taylorpterrill@gmail.com");
+    const employeeInstance = new Employee("Jared", 2, "jared.kirby99@gmail.com");
     expect(employeeInstance.getRole()).toBe(returnValue);
 })
