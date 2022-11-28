@@ -1,5 +1,6 @@
 
 ![Screenshot 2022-10-24 at 19-21-10 My Team](https://user-images.githubusercontent.com/51921860/197659971-178c8d69-c8f4-4b3e-87f4-29ca3822cce8.png)
+https://www.youtube.com/watch?v=5NKe4cP6n6k team generator walkthrough
 
 
 # Team Profile Generator
